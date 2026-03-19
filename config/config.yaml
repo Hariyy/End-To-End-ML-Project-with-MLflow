@@ -1,0 +1,11 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: "https://github.com/Hariyy/Text-Generative-AI/raw/af90541b6291d6d2f7ff473e78bf5c2260b0b88c/winequality-red.zip"
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+
+
+  
